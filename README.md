@@ -1,4 +1,4 @@
-SEO for Flow Router
+SEO for Flow Router - SSR
 ==========================
 
 This package aims to simplify setting title and meta tags for Meteor apps that use [Flow Router](https://atmospherejs.com/kadira/flow-router).
